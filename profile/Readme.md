@@ -10,7 +10,8 @@ Install following tools:
 Following command will create a fullstack java project
 
 ```
-mvn archetype:generate  -DarchetypeCatalog=local -DarchetypeGroupId=com.katappult -DarchetypeArtifactId=katappult-core-archetype -DarchetypeVersion=0.0.36
+export VERSION=0.0.36
+mvn archetype:generate  -DarchetypeCatalog=local -DarchetypeGroupId=com.katappult -DarchetypeArtifactId=katappult-core-archetype -DarchetypeVersion=$VERSION
 ```
 
 # Build
