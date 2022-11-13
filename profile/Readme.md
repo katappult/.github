@@ -1,8 +1,8 @@
 
 **********************************************************************************************************************
-|
-| How to generate a full stack ReactJS, JSF, SpringBoot, Spring, Hibernate, PostgreSQL, Docker projet in 1 minute?
-|
+
+ How to generate a full stack ReactJS, JSF, SpringBoot, Spring, Hibernate, PostgreSQL, Docker projet in 1 minute?
+
 **********************************************************************************************************************
 
 # Prerequisites
